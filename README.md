@@ -1,3 +1,3 @@
 # Particle Life ROS2
 
-[text](output.webm)
+![video](output.gif)
